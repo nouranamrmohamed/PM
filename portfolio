@@ -81,7 +81,7 @@
     <div class="team-container">
         <!-- Member 1 -->
         <div class="team-member">
-            <img src="C:\Users\amrno\OneDrive\Desktop\portfolio\noran.jpg" alt="Noran Amr">
+            <img src="noran.jpg" alt="Noran Amr">
             <h2>Noran Amr</h2>
             <p class="details">
                 Egyptian Russian University [2021-present] <br>
@@ -89,11 +89,11 @@
                 Business Analytics Major <br>
                 Year 4
             </p>
-            <a href="C:\Users\amrno\OneDrive\Desktop\portfolio\Nouran Amr.CV.pdf" target="_blank">View CV</a>
+            <a href="Nouran%20Amr.CV.pdf" target="_blank">View CV</a>
         </div>
         <!-- Member 2 -->
         <div class="team-member">
-            <img src="C:\Users\amrno\OneDrive\Desktop\portfolio\berry.jpg" alt="Berbara Romany">
+            <img src="berry.jpg" alt="Berbara Romany">
             <h2>Berbara Romany</h2>
             <p class="details">
                 Egyptian Russian University [2021-present] <br>
@@ -101,11 +101,11 @@
                 Business Analytics Major <br>
                 Year 4
             </p>
-            <a href="C:\Users\amrno\OneDrive\Desktop\portfolio\Berbara Romany.CV.pdf" target="_blank">View CV</a>
+            <a href="Berbara%20Romany.CV.pdf" target="_blank">View CV</a>
         </div>
         <!-- Member 3 -->
         <div class="team-member">
-            <img src="C:\Users\amrno\OneDrive\Desktop\portfolio\mariam.jpg" alt="Mariam Abdelhamid">
+            <img src="mariam.jpg" alt="Mariam Abdelhamid">
             <h2>Mariam Abdelhamid</h2>
             <p class="details">
                 Egyptian Russian University [2021-present] <br>
@@ -113,11 +113,11 @@
                 Business Analytics Major <br>
                 Year 4
             </p>
-            <a href="C:\Users\amrno\OneDrive\Desktop\portfolio\Mariam Abdelhamid_C.V.pdf" target="_blank">View CV</a>
+            <a href="Mariam%20Abdelhamid_C.V.pdf" target="_blank">View CV</a>
         </div>
         <!-- Member 4 -->
         <div class="team-member">
-            <img src="C:\Users\amrno\OneDrive\Desktop\portfolio\reem.jpg" alt="Reem Ibrahim">
+            <img src="reem.jpg" alt="Reem Ibrahim">
             <h2>Reem Ibrahim</h2>
             <p class="details">
                 Egyptian Russian University [2021-present] <br>
@@ -125,8 +125,9 @@
                 Business Analytics Major <br>
                 Year 4
             </p>
-            <a href="C:\Users\amrno\OneDrive\Desktop\portfolio\CV Reem EL-Houby.pdf" target="_blank">View CV</a>
+            <a href="CV%20Reem%20EL-Houby.pdf" target="_blank">View CV</a>
         </div>
     </div>
 </body>
 </html>
+
